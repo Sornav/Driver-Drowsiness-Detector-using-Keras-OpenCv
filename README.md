@@ -17,6 +17,4 @@ The closed and open eye images were obatined from the web, performed rigorous da
 
 5.OpenCv
 
-# Tasks Performed
 
-1.
